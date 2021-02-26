@@ -1,3 +1,5 @@
+package geolocator;
+
 public record GeoLocation() {
     private static String as;
     private static String city;
